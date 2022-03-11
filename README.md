@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @rkmiks09
+- 👋 Hi, I’m Rakesh Kumar
 - 👀 I’m interested in Coding
 - 🌱 I’m currently learning Python,MySql,JQuery,Html,Css
 - 📫 How to reach me https://www.linkedin.com/in/rakesh-kumar-01b27716b/
