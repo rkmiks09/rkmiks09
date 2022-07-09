@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Rakesh Kumar
-- 👀 I’m interested in Coding
+- 👀 I’m interested in Coding and practicing in AWS Cloud Services
 - 🌱 I’m currently learning Python,MySql,JQuery,Html,Css
 - 📫 How to reach me https://www.linkedin.com/in/rakesh-kumar-01b27716b/
 
